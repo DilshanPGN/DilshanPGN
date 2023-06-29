@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nipun Dilshan</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 - 🌱 I’m currently learning **Express.js and Kubernetes**
 
